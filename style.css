@@ -1,0 +1,43 @@
+.container-fluid{
+    background-image: linear-gradient(to right, #5E4741, #CDB7B0, #CDB7B0, #5E4741);
+    height: 600px;
+    padding-top: 8%;
+}
+form{
+    background-color: transparent;
+    padding: 30px 50px 40px 50px;
+    border: 1px solid #fff;
+    /* // box-shadow: 2px 2px 3px 3px #1D0600; */
+
+}
+.mt-3{
+    padding-top: 50px;
+}
+.avatar{
+    width: 45%;
+    margin-left: 25%;
+    margin-top: -35%;
+    /* // border: 1px solid #1D0600;
+    // border-radius: 100%; */
+}
+.span{
+    margin-left: 230px;
+}
+.btn{
+    background-color: #1D0600;
+    padding: 10px 110px 10px 110px;
+    margin-left: 26%;
+    margin-top: 35px;
+    margin-bottom: -60px;
+}
+
+.form-group{
+    position: relative;
+  }
+  
+.password-toggle{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 460px;
+}
+
